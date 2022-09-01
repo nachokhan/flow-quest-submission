@@ -8,3 +8,12 @@ It's used for storing tokens (fungible and no-fungible) and smart contracts whic
 DAY 2
 =====
 
+1. The five pillars are:
+* Safety & Security
+* Clarity
+* Approchability
+* Dev Experience
+* Resource oriented programming
+
+2. Safety & Security are obviusly needed in any systems. Clarity & Dev Experience are not needed but they are very usefull for programmers. It makes the language more atractive to be learned and used by developers. The same happens with approchability.
+
